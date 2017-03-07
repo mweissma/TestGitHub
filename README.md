@@ -1,2 +1,4 @@
 # TestGitHub
-gethub tutorial
+github tutorial
+
+Repository for local test code while learning GIT
